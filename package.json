@@ -1,7 +1,7 @@
 {
   "name": "thriftverse",
   "version": "0.1.0",
-  "homepage": "https://sasta-santa.github.io/ThriftVerse/",
+  "homepage": "https://sasta-santa.github.io",
   "private": true,
   "dependencies": {
     "@stripe/stripe-js": "^8.0.0",
