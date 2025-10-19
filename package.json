@@ -1,7 +1,6 @@
 {
   "name": "thriftverse",
   "version": "0.1.0",
-  "homepage": "https://sasta-santa.github.io/ThriftVerse",
   "private": true,
   "dependencies": {
     "@stripe/stripe-js": "^8.0.0",
@@ -21,8 +20,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --dotfiles",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
